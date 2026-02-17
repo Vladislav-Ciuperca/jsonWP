@@ -1,28 +1,13 @@
 {
-   "contacts":  [
+  "contacts": [
     {
       "name": "Michele",
       "avatar": "./img/avatar_1.jpg",
       "visible": true,
       "messages": [
-        {
-          "date": "10/01/2020 15:30:55",
-          "message": "Hai portato a spasso il cane?",
-          "fix": "sent-line",
-          "status": "sent"
-        },
-        {
-          "date": "10/01/2020 15:50:00",
-          "message": "Ricordati di stendere i panni",
-          "fix": "sent-line",
-          "status": "sent"
-        },
-        {
-          "date": "10/01/2020 16:15:22",
-          "message": "Tutto fatto!",
-          "fix": "received-line",
-          "status": "received"
-        }
+        { "date": "10/01/2020 15:30:55", "message": "Hai portato a spasso il cane?", "status": "sent" },
+        { "date": "10/01/2020 15:50:00", "message": "Ricordati di stendere i panni", "status": "sent" },
+        { "date": "10/01/2020 16:15:22", "message": "Tutto fatto!", "status": "received" }
       ]
     },
     {
@@ -30,24 +15,9 @@
       "avatar": "./img/avatar_2.jpg",
       "visible": true,
       "messages": [
-        {
-          "date": "20/03/2020 16:30:00",
-          "message": "Ciao come stai?",
-          "fix": "sent-line",
-          "status": "sent"
-        },
-        {
-          "date": "20/03/2020 16:30:55",
-          "message": "Bene grazie! Stasera ci vediamo?",
-          "fix": "received-line",
-          "status": "received"
-        },
-        {
-          "date": "20/03/2020 16:35:00",
-          "message": "Mi piacerebbe ma devo andare a fare la spesa.",
-          "fix": "sent-line",
-          "status": "sent"
-        }
+        { "date": "09/01/2020 16:30:00", "message": "Ciao come stai?", "status": "sent" },
+        { "date": "09/01/2020 16:30:55", "message": "Bene grazie! Stasera ci vediamo?", "status": "received" },
+        { "date": "10/01/2020 16:35:00", "message": "Mi piacerebbe ma devo andare a fare la spesa.", "status": "sent" }
       ]
     },
     {
@@ -55,24 +25,9 @@
       "avatar": "./img/avatar_3.jpg",
       "visible": true,
       "messages": [
-        {
-          "date": "28/03/2020 10:10:40",
-          "message": "La Marianna va in campagna",
-          "fix": "received-line",
-          "status": "received"
-        },
-        {
-          "date": "28/03/2020 10:20:10",
-          "message": "Sicuro di non aver sbagliato chat?",
-          "fix": "sent-line",
-          "status": "sent"
-        },
-        {
-          "date": "28/03/2020 16:15:22",
-          "message": "Ah scusa!",
-          "fix": "received-line",
-          "status": "received"
-        }
+        { "date": "09/01/2020 10:10:40", "message": "La Marianna va in campagna", "status": "received" },
+        { "date": "10/01/2020 10:20:10", "message": "Sicuro di non aver sbagliato chat?", "status": "sent" },
+        { "date": "10/01/2020 16:15:22", "message": "Ah scusa!", "status": "received" }
       ]
     },
     {
@@ -80,18 +35,8 @@
       "avatar": "./img/avatar_4.jpg",
       "visible": true,
       "messages": [
-        {
-          "date": "10/01/2020 15:30:55",
-          "message": "Lo sai che ha aperto una nuova pizzeria?",
-          "fix": "sent-line",
-          "status": "sent"
-        },
-        {
-          "date": "10/01/2020 15:50:00",
-          "message": "Si, ma preferirei andare al cinema",
-          "fix": "received-line",
-          "status": "received"
-        }
+        { "date": "10/01/2020 15:30:55", "message": "Lo sai che ha aperto una nuova pizzeria?", "status": "sent" },
+        { "date": "10/01/2020 15:50:00", "message": "Si, ma preferirei andare al cinema", "status": "received" }
       ]
     },
     {
@@ -99,18 +44,8 @@
       "avatar": "./img/avatar_5.jpg",
       "visible": true,
       "messages": [
-        {
-          "date": "10/01/2020 15:30:55",
-          "message": "Ricordati di chiamare la nonna",
-          "fix": "sent-line",
-          "status": "sent"
-        },
-        {
-          "date": "10/01/2020 15:50:00",
-          "message": "Va bene, stasera la sento",
-          "fix": "received-line",
-          "status": "received"
-        }
+        { "date": "10/01/2020 15:30:55", "message": "Ricordati di chiamare la nonna", "status": "sent" },
+        { "date": "10/01/2020 15:50:00", "message": "Va bene, stasera la sento", "status": "received" }
       ]
     },
     {
@@ -118,24 +53,9 @@
       "avatar": "./img/avatar_6.jpg",
       "visible": true,
       "messages": [
-        {
-          "date": "10/01/2020 15:30:55",
-          "message": "Ciao Claudia, hai novità?",
-          "fix": "sent-line",
-          "status": "sent"
-        },
-        {
-          "date": "10/01/2020 15:50:00",
-          "message": "Non ancora",
-          "fix": "received-line",
-          "status": "received"
-        },
-        {
-          "date": "10/01/2020 15:51:00",
-          "message": "Nessuna nuova, buona nuova",
-          "fix": "sent-line",
-          "status": "sent"
-        }
+        { "date": "10/01/2020 15:30:55", "message": "Ciao Claudia, hai novità?", "status": "sent" },
+        { "date": "10/01/2020 15:50:00", "message": "Non ancora", "status": "received" },
+        { "date": "10/01/2020 15:51:00", "message": "Nessuna nuova, buona nuova", "status": "sent" }
       ]
     },
     {
@@ -143,18 +63,120 @@
       "avatar": "./img/avatar_7.jpg",
       "visible": true,
       "messages": [
-        {
-          "date": "10/01/2020 15:30:55",
-          "message": "Fai gli auguri a Martina che è il suo compleanno!",
-          "fix": "sent-line",
-          "status": "sent"
-        },
-        {
-          "date": "10/01/2020 15:50:00",
-          "message": "Grazie per avermelo ricordato, le scrivo subito!",
-          "fix": "received-line",
-          "status": "received"
-        }
+        { "date": "10/01/2020 15:30:55", "message": "Fai gli auguri a Martina che è il suo compleanno!", "status": "sent" },
+        { "date": "10/01/2020 15:50:00", "message": "Grazie per avermelo ricordato, le scrivo subito!", "status": "received" }
+      ]
+    },
+    {
+      "name": "Michele (Lavoro)",
+      "avatar": "./img/avatar_1.jpg",
+      "visible": true,
+      "messages": [
+        { "date": "10/01/2020 09:00:00", "message": "Buongiorno, invio il file.", "status": "sent" }
+      ]
+    },
+    {
+      "name": "Fabio (Lavoro)",
+      "avatar": "./img/avatar_2.jpg",
+      "visible": true,
+      "messages": [
+        { "date": "10/01/2020 09:15:00", "message": "Ricevuto il report?", "status": "received" }
+      ]
+    },
+    {
+      "name": "Samuele (Lavoro)",
+      "avatar": "./img/avatar_3.jpg",
+      "visible": true,
+      "messages": [
+        { "date": "10/01/2020 10:30:00", "message": "Meeting posticipato alle 11.", "status": "received" }
+      ]
+    },
+    {
+      "name": "Alessandro B. (Lavoro)",
+      "avatar": "./img/avatar_4.jpg",
+      "visible": true,
+      "messages": [
+        { "date": "10/01/2020 11:00:00", "message": "Ti ho girato la mail.", "status": "sent" }
+      ]
+    },
+    {
+      "name": "Alessandro L. (Lavoro)",
+      "avatar": "./img/avatar_5.jpg",
+      "visible": true,
+      "messages": [
+        { "date": "10/01/2020 12:00:00", "message": "Andiamo in pausa pranzo?", "status": "sent" }
+      ]
+    },
+    {
+      "name": "Claudia (Lavoro)",
+      "avatar": "./img/avatar_6.jpg",
+      "visible": true,
+      "messages": [
+        { "date": "10/01/2020 14:00:00", "message": "Bozza approvata.", "status": "received" }
+      ]
+    },
+    {
+      "name": "Federico (Lavoro)",
+      "avatar": "./img/avatar_7.jpg",
+      "visible": true,
+      "messages": [
+        { "date": "10/01/2020 14:30:00", "message": "Ti serve aiuto col task?", "status": "received" }
+      ]
+    },
+    {
+      "name": "Michele (Casa)",
+      "avatar": "./img/avatar_1.jpg",
+      "visible": true,
+      "messages": [
+        { "date": "10/01/2020 19:00:00", "message": "Butta la pasta.", "status": "sent" }
+      ]
+    },
+    {
+      "name": "Fabio (Casa)",
+      "avatar": "./img/avatar_2.jpg",
+      "visible": true,
+      "messages": [
+        { "date": "10/01/2020 19:10:00", "message": "Porto il dolce.", "status": "received" }
+      ]
+    },
+    {
+      "name": "Samuele (Casa)",
+      "avatar": "./img/avatar_3.jpg",
+      "visible": true,
+      "messages": [
+        { "date": "10/01/2020 19:30:00", "message": "Avete visto le chiavi?", "status": "sent" }
+      ]
+    },
+    {
+      "name": "Alessandro B. (Casa)",
+      "avatar": "./img/avatar_4.jpg",
+      "visible": true,
+      "messages": [
+        { "date": "10/01/2020 20:00:00", "message": "Stasera film?", "status": "sent" }
+      ]
+    },
+    {
+      "name": "Alessandro L. (Casa)",
+      "avatar": "./img/avatar_5.jpg",
+      "visible": true,
+      "messages": [
+        { "date": "10/01/2020 20:15:00", "message": "Ok per il film.", "status": "received" }
+      ]
+    },
+    {
+      "name": "Claudia (Casa)",
+      "avatar": "./img/avatar_6.jpg",
+      "visible": true,
+      "messages": [
+        { "date": "10/01/2020 20:30:00", "message": "Lavate i piatti!", "status": "received" }
+      ]
+    },
+    {
+      "name": "Federico (Casa)",
+      "avatar": "./img/avatar_7.jpg",
+      "visible": true,
+      "messages": [
+        { "date": "10/01/2020 20:45:00", "message": "Già fatto.", "status": "sent" }
       ]
     }
   ]
